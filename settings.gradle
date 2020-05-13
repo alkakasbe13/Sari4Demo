@@ -1,0 +1,2 @@
+rootProject.name='Sari4Demo'
+include ':app'
